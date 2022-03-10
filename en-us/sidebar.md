@@ -1,0 +1,20 @@
+- [About HSC](en-us/intro.md)
+- [Cross Chain Assets](en-us/crosschain.md)
+- [Get HOO](en-us/buy_hoo.md)
+- [Mainnet](en-us/mainnet.md)
+<!-- - [Testnet](en-us/testnet.md) -->
+- [Wallet](en-us/wallet.md)
+- Developer
+    - [Quick Start](en-us/dev/install.md)
+    - [Launch Node](en-us/dev/launch-node.md)
+    - [On-chain Interaction](en-us/dev/sdk.md)
+    - [Json-rpc](en-us/dev/json-rpc.md)
+    - [Contract](en-us/dev/contract.md)
+- Activity
+    - [Activity](en-us/Activity.md)
+- Announcement
+    - [Announcement](en-us/Announcement.md)
+- FAQ
+    - [FAQ](en-us/faq.md)
+- Disclaimer
+    - [Disclaimer](en-us/disclaimer.md)

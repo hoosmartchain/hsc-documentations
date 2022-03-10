@@ -1,6 +1,6 @@
-# hsc-documentations
+Using docsify to host this site.
 
-
-* [HooWhitePaper-EN](./HooWhitePaper-EN.pdf)
-
-* [HooWhitePaper-CN](./HooWhitePaper-CN.pdf)
+```
+npm i docsify-cli -g
+docsify serve ./
+```
