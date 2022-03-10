@@ -1,0 +1,15 @@
+wget https://swap.hbfile.net/heco-chain-docs/js/docsify.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/search.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/docsify-pagination.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-bash.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-json.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-javascript.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-typescript.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-rust.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-c.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-graphql.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-makefile.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/prism-diff.min.js
+wget https://swap.hbfile.net/heco-chain-docs/js/docsify-tabs@1.js
+wget https://swap.hbfile.net/heco-chain-docs/js/docsify-plugin-flexible-alerts.min.js
+wget https://swap.hbfile.net/heco-chain-docs/css/vue.css
